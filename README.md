@@ -4,6 +4,13 @@ L'organisation [polytechlyon-isi2](https://github.com/polytechlyon-isi2) rassemb
 
 Contact enseignant : [Baptiste Pesquet](https://github.com/bpesquet).
 
+## Structure
+
+L'organisation est structurée selon certaines des recommandations [GitHub Education](https://education.github.com/guide) :
+
+* Un dépôt pour les [informations générales](https://github.com/polytechlyon-isi2/informations).
+* Un dépôt pour les [étudiants](https://github.com/polytechlyon-isi2/etudiants). 
+
 ## Présentation du module
 
 Les objectifs du module ISI2 sont :
