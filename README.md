@@ -8,9 +8,9 @@ Contact enseignant : [Baptiste Pesquet](https://github.com/bpesquet).
 
 Les objectifs du module ISI2 sont :
 
-•	Découvrir ou revoir les fondamentaux du développement Web.
-•	Mettre en place une architecture logicielle professionnelle et programmer dans le cadre d’un framework.
-•	Participer à un projet logiciel en équipe.
+*	Découvrir ou revoir les fondamentaux du développement Web.
+*	Mettre en place une architecture logicielle professionnelle et programmer dans le cadre d’un framework.
+*	Participer à un projet logiciel en équipe.
 
 Pour parvenir à ces objectifs, les étudiants réalisent un projet de type « site de e-commerce » enrichi progressivement sur toute la durée des séances.
 
