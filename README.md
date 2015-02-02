@@ -6,16 +6,24 @@ Contact enseignant : [Baptiste Pesquet](https://github.com/bpesquet).
 
 ## Présentation du module
 
-Le module ISI2 
+Les objectifs du module ISI2 sont :
+
+•	Découvrir ou revoir les fondamentaux du développement Web.
+•	Mettre en place une architecture logicielle professionnelle et programmer dans le cadre d’un framework.
+•	Participer à un projet logiciel en équipe.
+
+Pour parvenir à ces objectifs, les étudiants réalisent un projet de type « site de e-commerce » enrichi progressivement sur toute la durée des séances.
 
 ## Pré-requis
 
-Aucun.
+* Connaître les langages fondamentaux du Web, HTML et CSS.
+* Connaître les bases du langage PHP et avoir déjà accédé à une base de données relationnelle avec PHP.
 
 ## Environnement technique
 
 * Langages : HTML5, CSS3, PHP5.
-* 
+* Serveur Web Apache, SGBD MySQL.
+* Outils : [Silex](http://silex.sensiolabs.org/), [Twig](http://twig.sensiolabs.org/), [Bootstrap](http://getbootstrap.com/), [PHPUnit](https://phpunit.de/).
 
 ## Licence
 
