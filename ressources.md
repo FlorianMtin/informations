@@ -18,5 +18,7 @@ Ici sont regroupées des ressources utiles pour atteindre les pré-requis du mod
 * [Git is easier than you think](http://nfarina.com/post/9868516270/git-is-simpler)
 * [Git CheatSheet](https://github.com/mikeizbicki/ucr-cs100/blob/2015winter/textbook/cheatsheets/git-cheatsheet.md)
 
+## GitHub
+
 * [GitHub Hello World](https://guides.github.com/activities/hello-world/)
 * [Utilisation de Git et GitHub avec Netbeans](http://pub.bpesquet.fr/git_github.pdf)
