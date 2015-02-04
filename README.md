@@ -23,7 +23,8 @@ Pour parvenir à ces objectifs, les étudiants réalisent un projet de type « s
 ## Environnement technique
 
 * Langages : HTML5, CSS3, PHP5.
-* Serveur Web Apache, SGBD MySQL.
+* Serveur Web : Apache.
+* SGBD : MySQL.
 * Outils : [Silex](http://silex.sensiolabs.org/), [Twig](http://twig.sensiolabs.org/), [Bootstrap](http://getbootstrap.com/), [PHPUnit](https://phpunit.de/).
 * Gestion du code source : Git/GitHub.
 
