@@ -12,7 +12,7 @@ Ici sont regroupées des ressources utiles pour atteindre les pré-requis du mod
 * [PHP | Codecademy](http://www.codecademy.com/fr/tracks/php)
 * [Concevez votre site web avec PHP et MySQL](http://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql) (OpenClassrooms)
 
-## Git/GitHub
+## Git
 
 * [Gérez vos codes source avec Git](http://openclassrooms.com/courses/gerez-vos-codes-source-avec-git) (OpenClassrooms)
 * [Git is easier than you think](http://nfarina.com/post/9868516270/git-is-simpler)
