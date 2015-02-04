@@ -18,12 +18,14 @@ Pour parvenir à ces objectifs, les étudiants réalisent un projet de type « s
 
 * Connaître les langages fondamentaux du Web, HTML et CSS.
 * Connaître les bases du langage PHP et avoir déjà accédé à une base de données relationnelle avec PHP.
+* Savoir utiliser Git et GitHub.
 
 ## Environnement technique
 
 * Langages : HTML5, CSS3, PHP5.
 * Serveur Web Apache, SGBD MySQL.
 * Outils : [Silex](http://silex.sensiolabs.org/), [Twig](http://twig.sensiolabs.org/), [Bootstrap](http://getbootstrap.com/), [PHPUnit](https://phpunit.de/).
+* Gestion du code source : Git/GitHub.
 
 ## Licence
 
