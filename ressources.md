@@ -16,4 +16,5 @@ Ici sont regroupées des ressources utiles pour atteindre les pré-requis du mod
 
 * [Gérez vos codes source avec Git](http://openclassrooms.com/courses/gerez-vos-codes-source-avec-git) (OpenClassrooms)
 * [Git is easier than you think](http://nfarina.com/post/9868516270/git-is-simpler)
+* [Git CheatSheet](https://github.com/mikeizbicki/ucr-cs100/blob/2015winter/textbook/cheatsheets/git-cheatsheet.md)
 * [GitHub Hello World](https://guides.github.com/activities/hello-world/)
