@@ -24,3 +24,7 @@ Ici sont regroupées des ressources utiles pour atteindre les pré-requis du mod
 
 * [GitHub Hello World](https://guides.github.com/activities/hello-world/)
 * [Utilisation de Git et GitHub avec Netbeans](http://pub.bpesquet.fr/git_github.pdf)
+
+## Agilité/SCRUM
+
+* [Du développement à la mise en place d'un projet agile](https://prezi.com/whkjnamj_-ms/du-developpement-a-la-mise-en-place-dun-projet-agile/) (Prezi)
