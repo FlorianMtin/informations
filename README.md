@@ -16,16 +16,13 @@ Pour parvenir à ces objectifs, les étudiants réalisent un projet de type « s
 
 ## Pré-requis
 
-Les pré-requis du module sont :
+Les pré-requis du module sont (dans l'ordre d'importance) :
 
 * Connaître les langages fondamentaux du Web, HTML et CSS.
 * Connaître les bases du langage PHP et avoir déjà accédé à une base de données relationnelle avec PHP.
 * Avoir une première expérience en programmation orientée objet.
-
-Les notions suivantes seront abordées durant le module, mais leur étude préalable est cependant conseillée :
-
-* Utilisation du framework Web Bootstrap.
-* Gestion du code source avec Git et GitHub.
+* Savoir utiliser Git et GitHub.
+* Connaître le fonctionnement général du framework Web Bootstrap.
 
 ## Environnement technique
 
