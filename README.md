@@ -16,7 +16,7 @@ Pour parvenir à ces objectifs, les étudiants réalisent un projet de type « s
 
 ## Pré-requis
 
-Les pré-requis fondamentaux du module sont :
+Les pré-requis du module sont :
 
 * Connaître les langages fondamentaux du Web, HTML et CSS.
 * Connaître les bases du langage PHP et avoir déjà accédé à une base de données relationnelle avec PHP.
