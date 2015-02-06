@@ -22,10 +22,10 @@ Les pré-requis du module sont :
 * Connaître les bases du langage PHP et avoir déjà accédé à une base de données relationnelle avec PHP.
 * Avoir une première expérience en programmation orientée objet.
 
-Les compétences suivantes seront abordées durant le module, mais leur étude préalable est conseillée :
+Les notions suivantes seront abordées durant le module, mais leur étude préalable est cependant conseillée :
 
-* S'être familiarisé avec le framework Web Bootstrap.
-* Savoir utiliser Git et GitHub.
+* Utilisation du framework Web Bootstrap.
+* Gestion du code source avec Git et GitHub.
 
 ## Environnement technique
 
