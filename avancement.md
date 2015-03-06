@@ -18,3 +18,9 @@
 ## Séance 3 - vendredi 6 mars
 
 * Suite de la formation [Evoluez vers une architecture PHP professionnelle](http://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle).
+
+## Séance 4 - vendredi 13 mars
+
+* Début du projet e-commerce
+  * Constitution des équipes.
+  * Remplissage de [cette feuille Google](https://docs.google.com/spreadsheets/d/16kehV20RI1n5qYaEZD7IgVWugTK2WMpeVo4wO_k54xM/edit?usp=sharing) par chaque équipe.
