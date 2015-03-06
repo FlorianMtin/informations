@@ -14,3 +14,7 @@
 
 * Début de la formation sur le cours [Evoluez vers une architecture PHP professionnelle](http://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle).
 * Remplir [cette feuille Google](https://docs.google.com/spreadsheets/d/1xxZNLVlYnJk5_m51QKFpKhyvgmzGavgqq0JIj29XFTg/edit?usp=sharing) au fur et à mesure de votre avancement.
+
+11 Séance 3 - vendredi 6 mars
+
+* Suite de la formation [Evoluez vers une architecture PHP professionnelle](http://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle).
