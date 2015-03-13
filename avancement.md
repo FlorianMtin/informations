@@ -21,6 +21,14 @@
 
 ## Séance 4 - vendredi 13 mars
 
-* Début du projet e-commerce
-  * Constitution des équipes.
-  * Remplissage de [cette feuille Google](https://docs.google.com/spreadsheets/d/16kehV20RI1n5qYaEZD7IgVWugTK2WMpeVo4wO_k54xM/edit?usp=sharing) par chaque équipe.
+Lancement du projet e-commerce
+
+* Démo du projet d'exemple [MusicStore](http://oc-musicstore.herokuapp.com/) (login: daisy@diossy.fr/secret).
+* Constitution des équipes.
+* Remplissage de [cette feuille Google](https://docs.google.com/spreadsheets/d/16kehV20RI1n5qYaEZD7IgVWugTK2WMpeVo4wO_k54xM/edit?usp=sharing) par chaque équipe.
+* Initialisation des boards sur [Trello](https://trello.com/polytechlyon) et des dépôts sur [GitHub](https://github.com/polytechlyon-isi2).
+* Début du sprint 1 :
+
+    * Choix des stories inclues dans ce sprint.
+    * Analyses des stories : définition des tâches et des tests.
+    * Début du développement.
