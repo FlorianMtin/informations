@@ -17,15 +17,14 @@
 
 ## Séance 3 - vendredi 6 mars
 
-* Suite de la formation [Evoluez vers une architecture PHP professionnelle](http://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle).
+Suite de la formation [Evoluez vers une architecture PHP professionnelle](http://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle).
 
 ## Séance 4 - vendredi 13 mars
 
 Lancement du projet e-commerce
 
-* Démo du projet d'exemple [MusicStore](http://oc-musicstore.herokuapp.com/) (compte: daisy@diossy.fr/secret).
-* Constitution des équipes.
-* Remplissage de [cette feuille Google](https://docs.google.com/spreadsheets/d/16kehV20RI1n5qYaEZD7IgVWugTK2WMpeVo4wO_k54xM/edit?usp=sharing) par chaque équipe.
+* Démo du projet d'exemple [MusicStore](http://oc-musicstore.herokuapp.com/) (compte : daisy@diossy.fr/secret).
+* Constitution des équipes et remplissage de [cette feuille Google](https://docs.google.com/spreadsheets/d/16kehV20RI1n5qYaEZD7IgVWugTK2WMpeVo4wO_k54xM/edit?usp=sharing) par chaque équipe.
 * Initialisation des planches sur [Trello](https://trello.com/polytechlyon) et des dépôts sur [GitHub](https://github.com/polytechlyon-isi2).
 * Début du sprint 1 :
     * Choix des stories inclues dans ce sprint.
